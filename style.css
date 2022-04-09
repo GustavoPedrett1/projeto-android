@@ -68,6 +68,7 @@ header > h1 {
 nav {
     background-color: var(--cor5);
     padding: 10px;
+    font-weight: bolder;
 }
 
 nav > a {
